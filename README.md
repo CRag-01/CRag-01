@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crag-01" alt="crag-01" /></a> </p>
 
-- 🔭 I’m currently working on [BlockChain - Agriculture Supply Chain](https://github.com/CRag-01/IOT-Blockchain-RiceSupplyChain)
-
-- 🌱 I’m currently learning **Blockchain, Machine Learning**
-
 - 📫 Email ID: **chandru.satchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
